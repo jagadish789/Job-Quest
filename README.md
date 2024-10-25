@@ -1,2 +1,2 @@
 # Job-Quest
-An application for job seekers 
+Navigating your career journey
